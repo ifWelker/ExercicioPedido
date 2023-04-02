@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\bin\Debug\net7.0\ExercicioPedido.exe
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\bin\Debug\net7.0\ExercicioPedido.deps.json
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\bin\Debug\net7.0\ExercicioPedido.runtimeconfig.json
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\bin\Debug\net7.0\ExercicioPedido.dll
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\bin\Debug\net7.0\ExercicioPedido.pdb
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\obj\Debug\net7.0\ExercicioPedido.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\obj\Debug\net7.0\ExercicioPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\obj\Debug\net7.0\ExercicioPedido.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\obj\Debug\net7.0\ExercicioPedido.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\obj\Debug\net7.0\ExercicioPedido.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\obj\Debug\net7.0\ExercicioPedido.dll
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\obj\Debug\net7.0\refint\ExercicioPedido.dll
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\obj\Debug\net7.0\ExercicioPedido.pdb
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\obj\Debug\net7.0\ExercicioPedido.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExercicioPedido\ExercicioPedido\obj\Debug\net7.0\ref\ExercicioPedido.dll
